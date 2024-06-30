@@ -12,3 +12,8 @@ I really like the web direction in programming, because websites are cross-platf
 - HTNL/CSS (basic).
 - Figma/Photoshop.
 - Python (beginer).
+
+## Languges
+- Russian
+- Ukrainian
+- English (A2).
